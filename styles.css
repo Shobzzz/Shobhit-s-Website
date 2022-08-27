@@ -1,0 +1,199 @@
+body{
+    
+    margin: 0;
+    text-align: center;
+    
+}
+
+h1{
+    font-size: 5rem;
+    margin: 50px auto 0 auto;
+    font-family:cursive ;
+    color: #66BFBF;
+    line-height: 2;
+}
+
+h2{
+    font-size: 2.7rem;
+    font-family: 'Times New Roman', Times, serif;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+h3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   color: #11999E;
+}
+
+
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #40514E;
+}
+
+pre{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #40514E;
+}
+
+a{
+    color: #11999E;
+}
+
+hr{
+    background-color: transparent;
+    border-top: 10px dotted gainsboro;
+    width: 7%;
+}
+
+
+.top-container{
+    background-color: #EAF6F6;
+    position: relative;
+    padding-top: 100px;
+      
+}
+
+.awesome{
+    text-decoration: underline;
+}
+
+
+.top-cloud{
+    position: absolute;
+    top: 50px;
+    right: 300px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 200px;
+    bottom: 350px;
+}
+
+
+.pfp{
+    height: 150px;
+    width: 200px;
+    border-radius: 90%;
+}
+
+
+.middle-container{
+      
+}
+
+.education{
+    line-height: 2;
+    margin: auto;
+}
+
+.interships{
+    margin: auto;
+    line-height: 2;
+}
+
+.intern-table{
+    margin: auto;
+    border: solid;
+    border-color: #66BFBF;
+}
+
+.skill-table{
+    margin: auto;
+    color: #40514E;
+}
+
+.skill-pfp{
+
+    width: 30%;
+    border-radius: 90%;
+    float: left;
+    margin-right: 30px;
+}
+ 
+
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.skill-row p{
+    color: #40514E;
+}
+
+.skill-add-pfp{
+    height: 150px;
+    width: 25%;
+    border-radius: 90%;
+    float: right;
+    margin-left: 30px;
+}
+
+.skill-shobz{
+    text-decoration: underline;
+}
+
+.contact-me{
+    line-height: 2;
+    
+}
+
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+
+.bottom-container{
+    background-color: #66BFBF;
+    margin: 0;
+    margin-top: 100px;
+    height: 130px;
+    line-height: 2;
+
+}
+
+.bottom-container p{
+    color: #EAF6F6;
+}
+
+
+
+.footer-link{
+  
+   padding: 20px;
+   color: #11999E;
+   font-size: 20px;
+  
+}
+
+.forms{
+    line-height: 2;
+}
+
+
